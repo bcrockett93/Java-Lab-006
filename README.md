@@ -5,6 +5,7 @@
 In this README.md, answer the following question:
 
 * What happens if you invoke a value method (i.e. a method that returns a result) and don't do anything with the returned result; that is, if you don't assign the returned result to a variable or use it as part of a larger expression?
+* Answer: If you invoke a value method and don't do anything with the returned result (example, don't assign it to a variable or use it as part of the larger expression), the returned value will be discarded, and the computation will have zero effect on the program.
 
 ## PART 2
 * Fork and clone this lab as you have done in all previous labs, and then complete the following:
